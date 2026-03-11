@@ -12,7 +12,9 @@
         "github:dartsim/dart"
     ],
     "versions": [
-        "6.13.2"
+        "6.13.2",
+        "6.13.2.bcr.1",
+        "6.13.2.bcr.2"
     ],
     "yanked_versions": {}
 }

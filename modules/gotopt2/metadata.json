@@ -1,0 +1,20 @@
+{
+    "homepage": "https://github.com/filmil/gotopt2",
+    "maintainers": [
+        {
+            "name": "Filip Filmar",
+            "email": "246576+filmil@users.noreply.github.com",
+            "github": "filmil",
+            "github_user_id": 246576
+        }
+    ],
+    "repository": [
+        "github:filmil/gotopt2"
+    ],
+    "versions": [
+        "2.2.0",
+        "2.2.2",
+        "2.2.19"
+    ],
+    "yanked_versions": {}
+}

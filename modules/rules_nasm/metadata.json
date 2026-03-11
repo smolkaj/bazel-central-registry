@@ -18,7 +18,9 @@
         "github:morganwl/rules_nasm"
     ],
     "versions": [
-        "0.3.1"
+        "0.3.1",
+        "0.4.0",
+        "0.5.0"
     ],
     "yanked_versions": {}
 }

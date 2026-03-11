@@ -1,8 +1,10 @@
 pyyaml
 validators
 click
+colorama
 networkx
 numpy
 scipy
 bazel-runfiles
 requests
+fastmcp
